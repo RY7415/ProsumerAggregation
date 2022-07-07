@@ -1,0 +1,2 @@
+id;nodeHV;nodeLV;type;tappos;autoTap;autoTapSide;loadingMax;substation;subnet;voltLvl
+MV2.101-LV6.201-Trafo 1;MV2.101 Bus 4;LV6.201 Bus 9;0.63 MVA 20/0.4 kV Dyn5 ASEA;0;0;NULL;100;NULL;LV6.201;6
