@@ -1,0 +1,6 @@
+,name,bus,p_mw,q_mvar,sn_mva,scaling,in_service,type,current_source,max_q_mvar,min_p_mw,phys_type,slack_weight,min_q_mvar,subnet,voltLvl,max_p_mw,profile
+0,LV6.201 SGen 1,32,0.0052,0.0,0.0052,1.0,True,PV,,,,RES,,,LV6.201,7,,PV8
+1,LV6.201 SGen 2,40,0.00783,0.0,0.00783,1.0,True,PV,,,,RES,,,LV6.201,7,,PV2
+2,LV6.201 SGen 3,8,0.0147,0.0,0.0147,1.0,True,PV,,,,RES,,,LV6.201,7,,PV6
+3,LV6.201 SGen 4,12,0.0252,0.0,0.0252,1.0,True,PV,,,,RES,,,LV6.201,7,,PV5
+4,LV6.201 SGen 5,50,0.0042,0.0,0.0252,1.0,True,PV,,,,RES,,,LV6.201,7,,PV8
