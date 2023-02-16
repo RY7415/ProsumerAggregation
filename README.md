@@ -1,5 +1,5 @@
 # ProAggregation
-Case study in the Agile project
+Case study data in the Agile project
 
 
 The information sharing hamiltonian path of EV network
